@@ -17,6 +17,8 @@ repositories {
 }
 
 dependencies {
+    implementation 'org.json:json:20201115'
+
     // Use JUnit test framework.
     testImplementation 'junit:junit:4.13'
     
